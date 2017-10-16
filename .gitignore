@@ -9,3 +9,5 @@ FitNesseRoot/files/testResults
 FitNesseRoot/RecentChanges/
 target/
 tmp/
+.gradle/
+suite
