@@ -1,5 +1,6 @@
 .bundle
 .idea/
+.gradle/
 *.DS_Store
 *.iml
 *.swp
@@ -9,5 +10,4 @@ FitNesseRoot/files/testResults
 FitNesseRoot/RecentChanges/
 target/
 tmp/
-.gradle/
-suite
+
